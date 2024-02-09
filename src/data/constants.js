@@ -1,5 +1,6 @@
 import Ecommerce from "../images/ecommerce.png";
 import Front from "../images/front.png";
+import Descarga from "../images/descarga.png";
 
 export const Bio = {
   name: "Luz Mariel",
@@ -191,7 +192,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "http://sw01.bcc.cuny.edu/wellingthon.arcangel/images/arcanhex.svg",
+    img: Descarga,
     role: "Front and Back PHP web developer",
     company: "Arcanhex Design",
     date: "June 2021 - Nov 2022",
