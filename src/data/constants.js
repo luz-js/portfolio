@@ -13,7 +13,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/luz-js",
   resume:
-  "https://drive.google.com/file/d/1Ec5ilEjrPe2n_cCASkGWNpsRWBt_qIjV/view?usp=sharing",
+  "https://drive.google.com/file/d/1ooIsNudTssmnOR40vVcCWAu6eDeFbt7l/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/luz-mariel-rosario-garcia-227aa4224/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/luzm.js?igsh=Y3lmODdpc243cGVn",
